@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nexusfreack
+- 👋 Hi, I’m Onur Işık
 - 👀 I’m interested in ... Software, Economics and Music.
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Software Engineers and Data Analysts.
