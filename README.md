@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nexusfreack
-- 👀 I’m interested in ... coding, music, economics.
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Software, Economics and Music.
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... Software Engineers and Data Analysts.
 - 📫 How to reach me ...
 
 <!---
